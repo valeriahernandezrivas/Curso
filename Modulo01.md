@@ -1,5 +1,5 @@
 # Introducción a PowerShell
-
+22
 ## Conocimientos previos
 - Programación (lenguajes, nivel, aprendido o utilizado)
 - PowerShell
