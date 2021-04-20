@@ -1,6 +1,6 @@
 # Introducción a PowerShell
 22
-## Conocimientos previos
+## Conocimientos previoskkkkkkkkkkkkk
 - Programación (lenguajes, nivel, aprendido o utilizado)
 - PowerShell
 - Sistemas operativos (Windows, macOS, Linux)
